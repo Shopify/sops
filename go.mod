@@ -39,10 +39,10 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945 // indirect
 	github.com/stretchr/testify v1.5.1
 	go.mozilla.org/gopgagent v0.0.0-20170926210634-4d7ea76ff71a
-	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
+	golang.org/x/sys v0.13.0
 	google.golang.org/api v0.7.0
 	google.golang.org/grpc v1.27.0
 	google.golang.org/protobuf v1.25.0
